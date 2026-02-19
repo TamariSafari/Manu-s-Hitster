@@ -1,0 +1,602 @@
+[
+  {
+    "id": "HIT-0001",
+    "title": "Pirate",
+    "artist": "Kasalla",
+    "year": 2011
+  },
+  {
+    "id": "HIT-0002",
+    "title": "Drink Doch Eine Met",
+    "artist": "Bläck Fööss",
+    "year": 1971
+  },
+  {
+    "id": "HIT-0003",
+    "title": "Du bes die Stadt",
+    "artist": "Bläck Fööss",
+    "year": 2002
+  },
+  {
+    "id": "HIT-0004",
+    "title": "Steh auf, mach laut!",
+    "artist": "Höhner",
+    "year": 2014
+  },
+  {
+    "id": "HIT-0005",
+    "title": "Alle Jläser huh",
+    "artist": "Kasalla",
+    "year": 2014
+  },
+  {
+    "id": "HIT-0006",
+    "title": "Et jitt kein Wood",
+    "artist": "Cat Ballou",
+    "year": 2012
+  },
+  {
+    "id": "HIT-0007",
+    "title": "Liebe deine Stadt",
+    "artist": "Cat Ballou",
+    "year": 2016
+  },
+  {
+    "id": "HIT-0008",
+    "title": "Ming Stadt",
+    "artist": "Cat Ballou",
+    "year": 2013
+  },
+  {
+    "id": "HIT-0009",
+    "title": "mer bruche keiner",
+    "artist": "Bläck Fööss",
+    "year": 1998
+  },
+  {
+    "id": "HIT-0010",
+    "title": "Stääne",
+    "artist": "Klüngelköpp",
+    "year": 2008
+  },
+  {
+    "id": "HIT-0011",
+    "title": "Wolkeplatz",
+    "artist": "Miljö",
+    "year": 2016
+  },
+  {
+    "id": "HIT-0012",
+    "title": "Denn wenn et Trömmelche jeht",
+    "artist": "Räuber",
+    "year": 1993
+  },
+  {
+    "id": "HIT-0013",
+    "title": "Kölsch statt Käsch",
+    "artist": "Miljö",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0014",
+    "title": "Mer fiere et levve",
+    "artist": "Cat Ballou",
+    "year": 2018
+  },
+  {
+    "id": "HIT-0015",
+    "title": "Mir schenke der ahl e paar Blömcher",
+    "artist": "Willy Millowitsch",
+    "year": 1968
+  },
+  {
+    "id": "HIT-0016",
+    "title": "Marie 111.",
+    "artist": "Bohei",
+    "year": 2002
+  },
+  {
+    "id": "HIT-0017",
+    "title": "Für die Iwigkeit",
+    "artist": "Räuber",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0018",
+    "title": "Unser Stammbaum",
+    "artist": "Bläck Fööss",
+    "year": 2000
+  },
+  {
+    "id": "HIT-0019",
+    "title": "Su noh nei dir su joot",
+    "artist": "Cat Ballou",
+    "year": 2018
+  },
+  {
+    "id": "HIT-0020",
+    "title": "För die Liebe nit",
+    "artist": "Lupo",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0021",
+    "title": "Buenos Dias Matthias",
+    "artist": "Paveier",
+    "year": 1987
+  },
+  {
+    "id": "HIT-0022",
+    "title": "Verlieb Dich nie",
+    "artist": "Eldorado",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0023",
+    "title": "Die nächste Rund",
+    "artist": "Bläck Fööss",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0024",
+    "title": "Nie mehr Alkohol",
+    "artist": "Paveier",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0025",
+    "title": "König",
+    "artist": "Cat Ballou",
+    "year": 2013
+  },
+  {
+    "id": "HIT-0026",
+    "title": "En d´r Kayjass Nummer Null",
+    "artist": "Bläck Fööss",
+    "year": 1975
+  },
+  {
+    "id": "HIT-0027",
+    "title": "Schnaps, das war sein letztes Wort",
+    "artist": "Willy Millowitsch",
+    "year": 1960
+  },
+  {
+    "id": "HIT-0028",
+    "title": "Kaffeebud",
+    "artist": "Bläck Fööss",
+    "year": 1978
+  },
+  {
+    "id": "HIT-0029",
+    "title": "Er wear der weißeste Mann am Strand",
+    "artist": "Paveier",
+    "year": 1997
+  },
+  {
+    "id": "HIT-0030",
+    "title": "Claudia",
+    "artist": "Lupo",
+    "year": 2020
+  },
+  {
+    "id": "HIT-0031",
+    "title": "Polterovend",
+    "artist": "Bläck Fööss",
+    "year": 1983
+  },
+  {
+    "id": "HIT-0032",
+    "title": "Kölsche Jung",
+    "artist": "Willy Millowitsch",
+    "year": 1972
+  },
+  {
+    "id": "HIT-0033",
+    "title": "För 1 Naach",
+    "artist": "Miljö",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0034",
+    "title": "Anita",
+    "artist": "Fiasko",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0035",
+    "title": "Jespenster",
+    "artist": "Lupo",
+    "year": 2015
+  },
+  {
+    "id": "HIT-0036",
+    "title": "Orjenal",
+    "artist": "Stadtrand",
+    "year": 2020
+  },
+  {
+    "id": "HIT-0037",
+    "title": "Eimol Prinz zo sin en Kölle am Rhing",
+    "artist": "Wicky Junggeburth",
+    "year": 1993
+  },
+  {
+    "id": "HIT-0038",
+    "title": "Annabella",
+    "artist": "Planschemalöör",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0039",
+    "title": "En d´r Altstadt weed en Bud frei",
+    "artist": "Bläck Fööss",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0040",
+    "title": "Schötzefess",
+    "artist": "Bläck Fööss",
+    "year": 1990
+  },
+  {
+    "id": "HIT-0041",
+    "title": "All in",
+    "artist": "Eldorado",
+    "year": 2023
+  },
+  {
+    "id": "HIT-0042",
+    "title": "Et letzte Mol",
+    "artist": "Miljö",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0043",
+    "title": "Wenn ich ne Engel bin",
+    "artist": "Kasalla",
+    "year": 2023
+  },
+  {
+    "id": "HIT-0044",
+    "title": "Wenn et Leech usjeiht",
+    "artist": "Kempes Feinest",
+    "year": 2024
+  },
+  {
+    "id": "HIT-0045",
+    "title": "Wasser im Rhing",
+    "artist": "Cat Ballou",
+    "year": 2024
+  },
+  {
+    "id": "HIT-0046",
+    "title": "Papajei",
+    "artist": "Stadtrand",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0047",
+    "title": "Dat bes Du",
+    "artist": "Kempes Feinest",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0048",
+    "title": "Superheld",
+    "artist": "Miljö",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0049",
+    "title": "Alles im Lot",
+    "artist": "BAP",
+    "year": 1990
+  },
+  {
+    "id": "HIT-0050",
+    "title": "Do jeht ming Frau",
+    "artist": "Wolfgang Niedecken",
+    "year": 2013
+  },
+  {
+    "id": "HIT-0051",
+    "title": "Heimweh nach Köln",
+    "artist": "Willi Ostermann",
+    "year": 1936
+  },
+  {
+    "id": "HIT-0052",
+    "title": "Blootwoosch, Kölsch un e lecker Mädche",
+    "artist": "Höhner",
+    "year": 1978
+  },
+  {
+    "id": "HIT-0053",
+    "title": "Kutt erop!",
+    "artist": "Höhner",
+    "year": 2003
+  },
+  {
+    "id": "HIT-0054",
+    "title": "Dem Schmitz sing Frau es durchjebrannt",
+    "artist": "Bläck Fööss",
+    "year": 1985
+  },
+  {
+    "id": "HIT-0055",
+    "title": "Einmal am Rhein",
+    "artist": "Willi Ostermann",
+    "year": 1931
+  },
+  {
+    "id": "HIT-0056",
+    "title": "Usjebomb",
+    "artist": "Bläck Fööss",
+    "year": 2020
+  },
+  {
+    "id": "HIT-0057",
+    "title": "Der schmucke Prinz",
+    "artist": "Jupp Schmitz",
+    "year": 1966
+  },
+  {
+    "id": "HIT-0058",
+    "title": "Indianer Kriesche Nit",
+    "artist": "Bläck Fööss",
+    "year": 1980
+  },
+  {
+    "id": "HIT-0059",
+    "title": "Die Hüsger bunt om Aldermaat",
+    "artist": "Willy Breuer",
+    "year": 2005
+  },
+  {
+    "id": "HIT-0060",
+    "title": "Beim Toni an d´r lesbud",
+    "artist": "Paveier",
+    "year": 1986
+  },
+  {
+    "id": "HIT-0061",
+    "title": "Dat sin die Lück",
+    "artist": "Blötschkopp Marc Metzger",
+    "year": 2007
+  },
+  {
+    "id": "HIT-0062",
+    "title": "Saunaboy",
+    "artist": "L.S.E",
+    "year": 1992
+  },
+  {
+    "id": "HIT-0063",
+    "title": "Am Aschermittwoch es alles vorbei",
+    "artist": "Jupp Schmitz",
+    "year": 1953
+  },
+  {
+    "id": "HIT-0064",
+    "title": "Ich ben ene Kölsche Jung",
+    "artist": "Hans Süper",
+    "year": 2012
+  },
+  {
+    "id": "HIT-0065",
+    "title": "Do laachst do dich Kapott",
+    "artist": "Karl Berbuer",
+    "year": 1954
+  },
+  {
+    "id": "HIT-0066",
+    "title": "Schabäuche",
+    "artist": "Höhner",
+    "year": 2010
+  },
+  {
+    "id": "HIT-0067",
+    "title": "Hätz voll Jold",
+    "artist": "Scharmöör",
+    "year": 2024
+  },
+  {
+    "id": "HIT-0068",
+    "title": "Aff un Zo",
+    "artist": "BAP",
+    "year": 2001
+  },
+  {
+    "id": "HIT-0069",
+    "title": "(Nicht mehr) Mein Karneval",
+    "artist": "Rhythmussportgruppe",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0070",
+    "title": "Lama",
+    "artist": "Rhythmussportgruppe",
+    "year": 2024
+  },
+  {
+    "id": "HIT-0071",
+    "title": "Kölsche Party",
+    "artist": "Kuhl un de Gäng",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0072",
+    "title": "Karnevalsmaus",
+    "artist": "Druckluft",
+    "year": 2025
+  },
+  {
+    "id": "HIT-0073",
+    "title": "Schenk vum Lävve en",
+    "artist": "Miljö",
+    "year": 2021
+  },
+  {
+    "id": "HIT-0074",
+    "title": "Leider wider eskaliert",
+    "artist": "Fiasko",
+    "year": 2024
+  },
+  {
+    "id": "HIT-0075",
+    "title": "Künning vun Kölle",
+    "artist": "Kasalla",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0076",
+    "title": "Die Nummer 1 vom Rhein",
+    "artist": "Cöllner",
+    "year": 2015
+  },
+  {
+    "id": "HIT-0077",
+    "title": "Immer wenn et Naach weed",
+    "artist": "Fiasko",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0078",
+    "title": "keinen Millimeter",
+    "artist": "Planschemalöör",
+    "year": 2021
+  },
+  {
+    "id": "HIT-0079",
+    "title": "Männerstrip im Waschsalon",
+    "artist": "Colör",
+    "year": 2001
+  },
+  {
+    "id": "HIT-0080",
+    "title": "Naturbeklopp",
+    "artist": "Domstürmer",
+    "year": 2008
+  },
+  {
+    "id": "HIT-0081",
+    "title": "Leed för Dich",
+    "artist": "Fiasko",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0082",
+    "title": "Dat Bessje",
+    "artist": "Köbesse",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0083",
+    "title": "Einfach Su",
+    "artist": "Miljö",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0084",
+    "title": "Et Köbesleed",
+    "artist": "La Mäng",
+    "year": 2016
+  },
+  {
+    "id": "HIT-0085",
+    "title": "E janz klei Stück vun Kölle",
+    "artist": "Die Labbese",
+    "year": 2016
+  },
+  {
+    "id": "HIT-0086",
+    "title": "Loss mer singe",
+    "artist": "Klüngelköpp",
+    "year": 2013
+  },
+  {
+    "id": "HIT-0087",
+    "title": "Kirmes em Kopp",
+    "artist": "Miljö",
+    "year": 2022
+  },
+  {
+    "id": "HIT-0088",
+    "title": "Bes et leech usjeiht",
+    "artist": "Kuhl un de Gäng",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0089",
+    "title": "Ich brauch kein Cabrio",
+    "artist": "Funky marys",
+    "year": 2009
+  },
+  {
+    "id": "HIT-0090",
+    "title": "Einer för alle",
+    "artist": "Miljö",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0091",
+    "title": "0221",
+    "artist": "Klüngelköpp",
+    "year": 2015
+  },
+  {
+    "id": "HIT-0092",
+    "title": "Schluck Schluck",
+    "artist": "Mätropolis",
+    "year": 2023
+  },
+  {
+    "id": "HIT-0093",
+    "title": "Disko Akrobat",
+    "artist": "Druckluft",
+    "year": 2023
+  },
+  {
+    "id": "HIT-0094",
+    "title": "Ahle Kess",
+    "artist": "Stadtrand",
+    "year": 2023
+  },
+  {
+    "id": "HIT-0095",
+    "title": "Wenn du nit danze kannst",
+    "artist": "Kempes Feinest",
+    "year": 2017
+  },
+  {
+    "id": "HIT-0096",
+    "title": "Schwing ming Fott",
+    "artist": "BeerBitches",
+    "year": 2018
+  },
+  {
+    "id": "HIT-0097",
+    "title": "Schwerelos",
+    "artist": "Fiasko",
+    "year": 2019
+  },
+  {
+    "id": "HIT-0098",
+    "title": "wenn et leech usjing em roxy",
+    "artist": "Bläck Fööss",
+    "year": 1996
+  },
+  {
+    "id": "HIT-0099",
+    "title": "Humbta-Tätärä",
+    "artist": "Ernst Neger",
+    "year": 1964
+  },
+  {
+    "id": "HIT-0100",
+    "title": "Wer soll das bezahlen?",
+    "artist": "Jupp Schmitz",
+    "year": 1949
+  }
+]
